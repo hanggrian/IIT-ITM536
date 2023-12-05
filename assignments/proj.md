@@ -3,7 +3,8 @@ The State of Mocking Frameworks in Software Testing: A Narrative Review
 :::
 
 ::: subtitle
-Hendra Anggrianto Wijaya (A20529195)<br>
+Hendra A. Wijaya<br>
+*hwijaya@hawk.iit.edu (A20529195)*<br>
 Department of Information Technology and Management<br>
 ITMD-536-01: Software Testing and Maintenance<br>
 Dr. Nazneen Hashmi<br>
