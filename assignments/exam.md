@@ -1,4 +1,4 @@
-<style type="text/css"> ol { list-style-type: upper-alpha; } </style>
+<style type="text/css">ol { list-style-type: upper-alpha; }</style>
 
 # Exam
 
@@ -12,7 +12,7 @@
 > 3. Because specifications tend to be unstructured
 > 4. Using more techniques is always better
 
-**B**. They find different types of defect.
+**B.** They find different types of defect.
 
 ## Problem 2
 
@@ -23,7 +23,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 3
 
@@ -33,7 +33,7 @@
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 4
 
@@ -62,7 +62,7 @@ happens.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 7
 
@@ -75,7 +75,7 @@ happens.
 > 3. Test case specification
 > 4. Test Plan
 
-**A**. Test Procedure Specification
+**A.** Test Procedure Specification
 
 ## Problem 8
 
@@ -87,7 +87,7 @@ happens.
 > 3. Incident
 > 4. Defect
 
-**D**. Defect
+**D.** Defect
 
 ## Problem 9
 
@@ -105,7 +105,7 @@ happens.
 > 3. V, W, Y, or Z
 > 4. V, X, or Z
 
-**A**. W, X, or Y
+**A.** W, X, or Y
 
 ## Problem 10
 
@@ -117,7 +117,7 @@ happens.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 11
 
@@ -129,7 +129,7 @@ happens.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 12
 
@@ -139,7 +139,7 @@ happens.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 13
 
@@ -149,7 +149,7 @@ happens.
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 14
 
@@ -160,7 +160,7 @@ happens.
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 15
 
@@ -171,7 +171,7 @@ happens.
 > 3. Maintenance
 > 4. Feasilbility
 
-**A**. Usability
+**A.** Usability
 
 ## Problem 16
 
@@ -185,7 +185,7 @@ happens.
      moderator
 > 4. An inspection has a trained leader, while a walkthrough has no leader
 
-**B**. A walkthrough is led by the author, while an inspection is led by a
+**B.** A walkthrough is led by the author, while an inspection is led by a
 trained moderator
 
 ## Problem 17
@@ -233,7 +233,7 @@ functionality and usability.
 > 3. Test tasks
 > 4. Environmental needs
 
-**A**. Exit criteria
+**A.** Exit criteria
 
 ## Problem 21
 
@@ -245,7 +245,7 @@ functionality and usability.
 > 3. Preventing defects in the system
 > 4. Finishing the project on time
 
-**C**. Preventing defects in the system
+**C.** Preventing defects in the system
 
 ## Problem 22
 
@@ -256,7 +256,7 @@ functionality and usability.
 > 3. Inspection
 > 4. Informal review
 
-**B**. Management approval
+**B.** Management approval
 
 ## Problem 23
 
@@ -266,7 +266,7 @@ functionality and usability.
 > 1. True
 > 2. False
 
-**B**. False
+**B.** False
 
 ## Problem 24
 
@@ -277,7 +277,7 @@ functionality and usability.
 > 3. Keep tests and test coverage hidden from programmers
 > 4. Handle all test automation duties
 
-**B**. Gather and report test progress metrics
+**B.** Gather and report test progress metrics
 
 ## Problem 25
 
@@ -289,7 +289,7 @@ functionality and usability.
 > 3. Will always be automated
 > 4. Is only run once
 
-**A**. Will check unchanged areas of the software to see if they have been
+**A.** Will check unchanged areas of the software to see if they have been
 affected
 
 ## Problem 26
@@ -302,7 +302,7 @@ affected
 > 3. Identify potential customer work-arounds for bugs
 > 4. Understanding what managers value about testing
 
-**A**. Explaining test results in a neutral fashion
+**A.** Explaining test results in a neutral fashion
 
 ## Problem 27
 
@@ -313,7 +313,7 @@ affected
 > 3. Test design
 > 4. All of the above
 
-**D**. All of the above
+**D.** All of the above
 
 ## Problem 28
 
@@ -324,7 +324,7 @@ affected
 > 1. True
 > 2. False
 
-**A**. True
+**A.** True
 
 ## Problem 29
 
@@ -336,7 +336,7 @@ affected
 > 3. Percentage of test cases written.
 > 4. Number or defects found and fixed.
 
-**D**. Number or defects found and fixed.
+**D.** Number or defects found and fixed.
 
 ## Problem 30
 
@@ -347,4 +347,4 @@ affected
 > 3. Testers will start to get involved as soon as coding is done
 > 4. A and B
 
-**D**. A and B
+**D.** A and B
