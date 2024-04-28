@@ -7,10 +7,10 @@
 > Why are both specification-based and structure-based testing techniques
   useful?
 >
-> 1. Both find the same types of defects
-> 2. They find different types of defect
-> 3. Because specifications tend to be unstructured
-> 4. Using more techniques is always better
+> 1.  Both find the same types of defects
+> 1.  They find different types of defect
+> 1.  Because specifications tend to be unstructured
+> 1.  Using more techniques is always better
 
 **B.** They find different types of defect.
 
@@ -20,8 +20,8 @@
   evidence that the requirements for a specific intended use or application have
   been fulfilled.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -30,8 +30,8 @@
 > Quality: The degree to which a component, system or process meets specified
   requirements and/or user/customer needs and expectations.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -59,8 +59,8 @@ happens.
 > Risk analysis does not help the process of assessing identified risks to
   estimate their impact and probability of occurrence (likelihood).
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -70,10 +70,10 @@ happens.
   steps to be taken for a test including set-up, logging environment and
   measurement?
 >
-> 1. Test Procedure Specification
-> 2. Test design specification
-> 3. Test case specification
-> 4. Test Plan
+> 1.  Test Procedure Specification
+> 1.  Test design specification
+> 1.  Test case specification
+> 1.  Test Plan
 
 **A.** Test Procedure Specification
 
@@ -82,10 +82,10 @@ happens.
 > According to the ISTQB Glossary, the word 'bug' is synonymous with which of
   the following words:
 >
-> 1. Mistake
-> 2. Error
-> 3. Incident
-> 4. Defect
+> 1.  Mistake
+> 1.  Error
+> 1.  Incident
+> 1.  Defect
 
 **D.** Defect
 
@@ -100,10 +100,10 @@ happens.
 > - Y &mdash; State transitions exercised
 > - Z &mdash; Statements exercised
 >
-> 1. W, X, or Y
-> 2. W, X, Y, or Z
-> 3. V, W, Y, or Z
-> 4. V, X, or Z
+> 1.  W, X, or Y
+> 1.  W, X, Y, or Z
+> 1.  V, W, Y, or Z
+> 1.  V, X, or Z
 
 **A.** W, X, or Y
 
@@ -114,8 +114,8 @@ happens.
   incorrect statement or data defiunition. A defect, if encountered during
   execution, may cause a failure of the component or system.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -126,8 +126,8 @@ happens.
   condition, such as to exercise a particular program path or to verify
   compliance with a specific requirement.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -136,8 +136,8 @@ happens.
 > Verification is conformation by examination and through provision of objective
   evidence that specified requirement have been fulfilled.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -146,8 +146,8 @@ happens.
 > Integration is the process of breaking the components or systems into small
   assemblies.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -157,8 +157,8 @@ happens.
   designated functions within given constraints regarding processing time and
   throughput rate.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -166,10 +166,10 @@ happens.
 
 > Which of the following is a non-functional quality characteristic?
 >
-> 1. Usability
-> 2. Regression
-> 3. Maintenance
-> 4. Feasilbility
+> 1.  Usability
+> 1.  Regression
+> 1.  Maintenance
+> 1.  Feasilbility
 
 **A.** Usability
 
@@ -177,16 +177,16 @@ happens.
 
 > What is the main difference between a walkthrough and an inspection?
 >
-> 1. Authors are not present during inspections, while they are during
-     walkthroughs
-> 2. A walkthrough is led by the author, while an inspection is led by a trained
-     moderator
-> 3. An inspection is led by the authors, while walkthrough is led by a trained
-     moderator
-> 4. An inspection has a trained leader, while a walkthrough has no leader
+> 1.  Authors are not present during inspections, while they are during
+      walkthroughs.
+> 1.  A walkthrough is led by the author, while an inspection is led by a
+      trained moderator.
+> 1.  An inspection is led by the authors, while walkthrough is led by a trained
+      moderator.
+> 1.  An inspection has a trained leader, while a walkthrough has no leader.
 
 **B.** A walkthrough is led by the author, while an inspection is led by a
-trained moderator
+trained moderator.
 
 ## Problem 17
 
@@ -228,10 +228,10 @@ functionality and usability.
   Which of the following elements of the test plan, while specified during test
   planning, are assessed during test execution?
 >
-> 1. Exit criteria
-> 2. Test team training
-> 3. Test tasks
-> 4. Environmental needs
+> 1.  Exit criteria
+> 1.  Test team training
+> 1.  Test tasks
+> 1.  Environmental needs
 
 **A.** Exit criteria
 
@@ -240,10 +240,10 @@ functionality and usability.
 > Ensuring that test design starts during the requirements definition phase is
   important to enable which of the following test objectives?
 >
-> 1. Finding defects through dynamic testing
-> 2. Gaining confidence in the system
-> 3. Preventing defects in the system
-> 4. Finishing the project on time
+> 1.  Finding defects through dynamic testing
+> 1.  Gaining confidence in the system
+> 1.  Preventing defects in the system
+> 1.  Finishing the project on time
 
 **C.** Preventing defects in the system
 
@@ -251,10 +251,10 @@ functionality and usability.
 
 > Which is not a type of review?
 >
-> 1. Walkthrough
-> 2. Management approval
-> 3. Inspection
-> 4. Informal review
+> 1.  Walkthrough
+> 1.  Management approval
+> 1.  Inspection
+> 1.  Informal review
 
 **B.** Management approval
 
@@ -263,8 +263,8 @@ functionality and usability.
 > Failure: Not a deviation of the component or system from its expected
   delivery, service or result.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -272,10 +272,10 @@ functionality and usability.
 
 > Which of the following is among the typical tasks of a test leader?
 >
-> 1. Develop system requirements, design specifications and usage models
-> 2. Gather and report test progress metrics
-> 3. Keep tests and test coverage hidden from programmers
-> 4. Handle all test automation duties
+> 1.  Develop system requirements, design specifications and usage models
+> 1.  Gather and report test progress metrics
+> 1.  Keep tests and test coverage hidden from programmers
+> 1.  Handle all test automation duties
 
 **B.** Gather and report test progress metrics
 
@@ -283,24 +283,25 @@ functionality and usability.
 
 > A regression test:
 >
-> 1. Will check unchanged areas of the software to see if they have been
-     affected
-> 2. Will check changed areas of the software to see if they have been affected
-> 3. Will always be automated
-> 4. Is only run once
+> 1.  Will check unchanged areas of the software to see if they have been
+      affected.
+> 1.  Will check changed areas of the software to see if they have been
+      affected.
+> 1.  Will always be automated.
+> 1.  Is only run once.
 
 **A.** Will check unchanged areas of the software to see if they have been
-affected
+affected.
 
 ## Problem 26
 
 > Which of the following is most important to promote and maintain good
   relationship between testers and developers?
 >
-> 1. Explaining test results in a neutral fashion
-> 2. Promoting better quality software whenever possible
-> 3. Identify potential customer work-arounds for bugs
-> 4. Understanding what managers value about testing
+> 1.  Explaining test results in a neutral fashion
+> 1.  Promoting better quality software whenever possible
+> 1.  Identify potential customer work-arounds for bugs
+> 1.  Understanding what managers value about testing
 
 **A.** Explaining test results in a neutral fashion
 
@@ -308,10 +309,10 @@ affected
 
 > Which of the following artefacts can be examined nby using review techniques?
 >
-> 1. Software code
-> 2. Requirements specifications
-> 3. Test design
-> 4. All of the above
+> 1.  Software code
+> 1.  Requirements specifications
+> 1.  Test design
+> 1.  All of the above
 
 **D.** All of the above
 
@@ -321,8 +322,8 @@ affected
   (coverage items) for a test item, the detailed test approach and identifying
   the associated high level test cases.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -331,10 +332,10 @@ affected
 > Which of the following metrics would be most useful to monitor during test
   execution?
 >
-> 1. Percentage of requirements for which a test has been written.
-> 2. Number of test environments remaining to be configured.
-> 3. Percentage of test cases written.
-> 4. Number or defects found and fixed.
+> 1.  Percentage of requirements for which a test has been written.
+> 1.  Number of test environments remaining to be configured.
+> 1.  Percentage of test cases written.
+> 1.  Number or defects found and fixed.
 
 **D.** Number or defects found and fixed.
 
@@ -342,9 +343,9 @@ affected
 
 > What are good practices for testing within the development life cycle?
 >
-> 1. Early test analysis and design
-> 2. Different test levels are defined with specified objectives
-> 3. Testers will start to get involved as soon as coding is done
-> 4. A and B
+> 1.  Early test analysis and design
+> 1.  Different test levels are defined with specified objectives
+> 1.  Testers will start to get involved as soon as coding is done
+> 1.  A and B
 
 **D.** A and B

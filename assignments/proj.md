@@ -124,7 +124,7 @@ the main point of the research.
 ### General-purpose Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation1.png)<br>Figure 1A &mdash; General mocking architecture
+![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation1.svg)<br>Figure 1A &mdash; General mocking architecture
 :::
 
 Open-source mocking toolkits like *Mockito* for Java, *Moq* for C#, and
@@ -232,7 +232,7 @@ Figure 1C &mdash; Mock in C# using Moq
 ### Web Services Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation2.png)<br>Figure 2A &mdash; Services mocking architecture
+![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation2.svg)<br>Figure 2A &mdash; Services mocking architecture
 :::
 
 Apps and websites communicate with each other using web services via backend
@@ -329,7 +329,7 @@ Figure 2C &mdash; GraphQL query in JavaScript using MSW
 ### Highly-customizable Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation3.png)<br>Figure 3A &mdash; Customizable mocking architecture
+![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation3.svg)<br>Figure 3A &mdash; Customizable mocking architecture
 :::
 
 Oftentimes, there are cases where access to the internal components of an
@@ -411,7 +411,7 @@ Figure 3C &mdash; Mocking static method in Java using PowerMock
 ### Pre-installed Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation4.png)<br>Figure 4A &mdash; Bundled mocking architecture
+![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation4.svg)<br>Figure 4A &mdash; Bundled mocking architecture
 :::
 
 The last category is a smaller pool of mocking tools that comes as a package
@@ -479,14 +479,15 @@ dependencies. Figure 5 depicts a common architecture in an ASF project and how
 are they being mocked.
 
 ::: figure
-| Name | Projects | Acc. of Projects |
-| --- | ---: | ---: |
-| Mockito | 99 (77%) | 77% |
-| EasyMock | 36 (28%) | 91% |
-| PowerMock | 16 (12%) | 92% |
-| Spring Framework | 16 (12%) | 94% |
-| Others | 8 (6%) | 100% |
-| Multiple Frameworks | 56 (40%) | - |
+Name | Projects | Acc. of Projects
+--- | ---: | ---:
+Mockito | 99 (77%) | 77%
+EasyMock | 36 (28%) | 91%
+PowerMock | 16 (12%) | 92%
+Spring Framework | 16 (12%) | 94%
+Others | 8 (6%) | 100%
+Multiple Frameworks | 56 (40%) | - |
+
 Table 1A &mdash; Popularity of Java unit testing frameworks
 :::
 
@@ -500,12 +501,13 @@ their data-gathering process is automated by a script, allowing room for
 inaccuracies for up to 9% of non-Mockito projects.
 
 ::: figure
-| Name | Minimum | Average | Median | Maximum |
-| --- | ---: | ---: | ---: | ---: |
-| Test files | 1 (0.03%) | 50 (10.2%) | 13.5 (6.05%) | 492 (62.17%) |
-| Mocked classes | 1 (0.7%) | 3.2 (16%) | 2 (12.1%) | 67 (100%) |
-| Library classes | 0 (0%) | 25.4 (61.1%) | 9 (65.2%) | 622 (100%) |
-| Mock files<br>without dependencies | 0 (0%) | 3.04 (0.6%) | 0 (0%) | 158 (11.5%) |
+Name | Minimum | Average | Median | Maximum
+--- | ---: | ---: | ---: | ---:
+Test files | 1 (0.03%) | 50 (10.2%) | 13.5 (6.05%) | 492 (62.17%)
+Mocked classes | 1 (0.7%) | 3.2 (16%) | 2 (12.1%) | 67 (100%)
+Library classes | 0 (0%) | 25.4 (61.1%) | 9 (65.2%) | 622 (100%)
+Mock files<br>without dependencies | 0 (0%) | 3.04 (0.6%) | 0 (0%) | 158 (11.5%)
+
 Table 1B &mdash; File count of Java mocking frameworks
 :::
 
@@ -520,19 +522,20 @@ could not verified, thereby unable to determine whether or not said projects
 should have used a mocking tool.
 
 ::: figure
-| Function | Invokes | Description |
-| --- | ---: | --- |
-| createNiceMock | 5,555 | Create an empty mock object with default returns. |
-| createMock | 2,668 | Create an empty mock object without default returns. |
-| expect | 2,638 | Specify a method and enable stubbing. |
-| andReturn | 1,067 | Stub the return value for a method returns anything but void. |
-| replay | 891 | Switch mock object to replay mode. |
-| verify | 425 | Verify a specific behavior of the mock object. |
-| anyTimes | 276 | Expect a method of a mock object to be executed any times. |
-| expectLastCall | 264 | Stub the behavior of void methods. |
-| eq | 238 | Expects an object equals to the given value. |
-| andStubReturn | 216 | Specific the default return for a method. |
-| isA | 138 | Expects an object implementing the given class. |
+Function | Invokes | Description
+--- | ---: | ---
+createNiceMock | 5,555 | Create an empty mock object with default returns.
+createMock | 2,668 | Create an empty mock object without default returns.
+expect | 2,638 | Specify a method and enable stubbing.
+andReturn | 1,067 | Stub the return value for a method returns anything but void.
+replay | 891 | Switch mock object to replay mode.
+verify | 425 | Verify a specific behavior of the mock object.
+anyTimes | 276 | Expect a method of a mock object to be executed any times.
+expectLastCall | 264 | Stub the behavior of void methods.
+eq | 238 | Expects an object equals to the given value.
+andStubReturn | 216 | Specific the default return for a method.
+isA | 138 | Expects an object implementing the given class.
+
 Table 1C &mdash; Top ten most triggered methods in EasyMock
 :::
 
@@ -581,14 +584,15 @@ decoupled from a unit test by using a separate test runner, which then creates
 executables based on the DLLs.
 
 ::: figure
-| Name | xUnit | Fixtures | Mocks | Exception | Macros | Templates |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| CppUnit | &check; | &check; | &cross; | &check; | &check; | &cross; |
-| Boost.Test | &check; | &check; | &cross; | &check; | User-configurable | &check; |
-| GoogleTest | &check; | &check; | &check; | &check; | &check; | &check; |
-| WinUnit | &check; | &check; | &cross; | &check; | &check; | &cross; |
-| Cfix | &check; | &check; | &cross; | &check; | &check; | &cross; |
-| Mock Object Testing | &check; | &check; | &check; | &cross; | &check; | &cross; |
+Name | xUnit | Fixtures | Mocks | Exception | Macros | Templates
+--- | :---: | :---: | :---: | :---: | :---: | :---:
+CppUnit | &check; | &check; | &cross; | &check; | &check; | &cross;
+Boost.Test | &check; | &check; | &cross; | &check; | User-configurable | &check;
+GoogleTest | &check; | &check; | &check; | &check; | &check; | &check;
+WinUnit | &check; | &check; | &cross; | &check; | &check; | &cross;
+Cfix | &check; | &check; | &cross; | &check; | &check; | &cross;
+Mock Object Testing | &check; | &check; | &check; | &cross; | &check; | &cross;
+
 Table 2 &mdash; Features of C++ unit testing frameworks
 :::
 
@@ -666,21 +670,38 @@ the mocking technology topic and for being supportive all the way.
 ## References
 
 ::: references
-McDonough, J. E. (2021). Test Doubles. Automated Unit Testing with ABAP: A Practical Approach, 159-210. https://link.springer.com/chapter/10.1007/978-1-4842-6951-0_8
+McDonough, J. E. (2021). Test Doubles. Automated Unit Testing with ABAP: A
+Practical Approach, 159-210. https://link.springer.com/chapter/10.1007/978-1-4842-6951-0_8
 
-Moe, M. M. (2019). Comparative Study of Test-Driven Development TDD, Behavior-Driven Development BDD and Acceptance Test–Driven Development ATDD. International Journal of Trend in Scientific Research and Development, 3, 231-234. https://www.academia.edu/download/59918587/47_Comparative_Study_of_Test-Driven_Development__TDD___Behavior-Driven_Development__BDD__and_Acceptance_Test-20190702-92470-o453so.pdf
+Moe, M. M. (2019). Comparative Study of Test-Driven Development TDD,
+Behavior-Driven Development BDD and Acceptance Test–Driven Development ATDD.
+International Journal of Trend in Scientific Research and Development, 3,
+231-234. https://www.academia.edu/download/59918587/47_Comparative_Study_of_Test-Driven_Development__TDD___Behavior-Driven_Development__BDD__and_Acceptance_Test-20190702-92470-o453so.pdf
 
-Zerouali, A. (2017). Analysis and observations of the evolution of testing library usage. In 2017 the Seminar Series on Advanced Techniques and Tools for Software Evolution (SATToSE). https://apps.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/86CCBF61-9EEF-451C-904C-FCC77FD66280/SATToSE_2017_paper_18.pdf
+Zerouali, A. (2017). Analysis and observations of the evolution of testing
+library usage. In 2017 the Seminar Series on Advanced Techniques and Tools for
+Software Evolution (SATToSE). https://apps.umons.ac.be/docnum/c7b423fd-d183-486c-9cec-966066b9b364/86CCBF61-9EEF-451C-904C-FCC77FD66280/SATToSE_2017_paper_18.pdf
 
-Brito, G., & Valente, M. T. (2020, March). REST vs GraphQL: A controlled experiment. In 2020 IEEE international conference on software architecture (ICSA) (pp. 81-91). IEEE. https://arxiv.org/pdf/2003.04761.pdf
+Brito, G., & Valente, M. T. (2020, March). REST vs GraphQL: A controlled
+experiment. In 2020 IEEE international conference on software architecture
+(ICSA) (pp. 81-91). IEEE. https://arxiv.org/pdf/2003.04761.pdf
 
-Fielding, R. T., Nottingham, M., & Reschke, J. (n.d.). RFC 9110. RFC 9110: HTTP Semantics. https://www.rfc-editor.org/rfc/rfc9110.html
+Fielding, R. T., Nottingham, M., & Reschke, J. (n.d.). RFC 9110. RFC 9110: HTTP
+Semantics. https://www.rfc-editor.org/rfc/rfc9110.html
 
-Xiao, L., Li, K., Lim, E., Wang, X., Wei, C., Yu, T., & Wang, X. (n.d.). An Empirical Study on the Usage of Mocking Frameworks in Apache Software Foundation. Available at SSRN 4100265. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4100265
+Xiao, L., Li, K., Lim, E., Wang, X., Wei, C., Yu, T., & Wang, X. (n.d.). An
+Empirical Study on the Usage of Mocking Frameworks in Apache Software
+Foundation. Available at SSRN 4100265. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4100265
 
-Heo, S. Y., & Sohn, Y. H. (2013). A Study of Unit Testing Frameworks on Open Source C++. Convergence Security Journal, 13(4), 33-39. https://koreascience.kr/article/JAKO201336448942865.pdf
+Heo, S. Y., & Sohn, Y. H. (2013). A Study of Unit Testing Frameworks on Open
+Source C++. Convergence Security Journal, 13(4), 33-39. https://koreascience.kr/article/JAKO201336448942865.pdf
 
-Nandigam, J., Tao, Y., Gudivada, V. N., & Hamou-Lhadj, A. (2010). Using mock object frameworks to teach object-oriented design principles. The Journal of Computing Sciences in Colleges, 26(1), 40-48. https://www.researchgate.net/profile/Charles-Peck-4/publication/234827961_LittleFe_Parallel_and_distributed_computing_education_on_the_move/links/548985100cf2ef34479299a6/LittleFe-Parallel-and-distributed-computing-education-on-the-move.pdf#page=49
+Nandigam, J., Tao, Y., Gudivada, V. N., & Hamou-Lhadj, A. (2010). Using mock
+object frameworks to teach object-oriented design principles. The Journal of
+Computing Sciences in Colleges, 26(1), 40-48. https://www.researchgate.net/profile/Charles-Peck-4/publication/234827961_LittleFe_Parallel_and_distributed_computing_education_on_the_move/links/548985100cf2ef34479299a6/LittleFe-Parallel-and-distributed-computing-education-on-the-move.pdf#page=49
 
-Freeman, S., Mackinnon, T., Pryce, N., & Walnes, J. (2004, October). Mock roles, not objects. In Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications (pp. 236-246). https://planningcards.com/assets/downloads/papers/pra25-MockRoles.pdf
+Freeman, S., Mackinnon, T., Pryce, N., & Walnes, J. (2004, October). Mock roles,
+not objects. In Companion to the 19th annual ACM SIGPLAN conference on
+Object-oriented programming systems, languages, and applications (pp. 236-246).
+https://planningcards.com/assets/downloads/papers/pra25-MockRoles.pdf
 :::
