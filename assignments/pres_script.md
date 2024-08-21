@@ -1,24 +1,24 @@
 # Evolution of Testing: From Manual to Automated
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide1.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide1.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide2.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide2.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide3.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide3.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide4.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide4.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide5.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide5.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide6.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide6.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide7.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide7.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide8.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide8.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide9.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide9.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide10.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide10.jpg)
 
 Thank you, **Supriya**. It's a pleasure to be here today. We have previously
 discussed the benefits of automated testing compared to manual testing. But how
@@ -41,7 +41,7 @@ quality control. Therefore, we use the same version control systems like Git or
 Mercurial. From time to time, we check our automation strategies to align with
 evolving technology.
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide11.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide11.jpg)
 
 Currently, the best practices in automated testing involve continuous
 integration and delivery. On the right side, we can see a common CI/CD workflow.
@@ -57,7 +57,7 @@ documentation is a powerful tool to record test cases and other evaluations.
 These resources are indispensable for troubleshooting and to educate team
 members.
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide12.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide12.jpg)
 
 Unfortunately, utilizing test automation in our project comes with additional
 expenses. In this section, we will be discussing the challenges and how to
@@ -74,7 +74,7 @@ flaky tests. Next, we prioritize strategic testing. For example, some tests
 might be overlapping and result in expensive operations. Finally, keep in touch
 with the latest automation trends and best practices to stay relevant.
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide13.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide13.jpg)
 
 The next slide is about the exciting future trends of automated testing. First,
 there is a test shifting strategy. Shifting left rushes the test execution plan
@@ -90,7 +90,7 @@ The last two trends are examples of advanced automated testing. There is Robotic
 Process Automation, a field that specializes in mimicking human input. At last,
 there are complex testing frameworks designed for distributed systems.
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide14.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide14.jpg)
 
 This slide is dedicated to artificial intelligence technology in testing. As you
 can see in the picture, AI testing services are already available today. They
@@ -109,12 +109,12 @@ AI helps with data analysis and visualization.
 My segment ends here. The next slide will be presented by my colleague **Yash**.
 I want to thank you for the opportunity to speak.
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide15.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide15.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide16.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide16.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide17.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide17.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide18.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide18.jpg)
 
-> ![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/pres/slide19.jpg)
+> ![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/pres/slide19.jpg)

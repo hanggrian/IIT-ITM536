@@ -124,7 +124,7 @@ the main point of the research.
 ### General-purpose Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation1.svg)<br>Figure 1A &mdash; General mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation1.svg)<br>Figure 1A &mdash; General mocking architecture
 :::
 
 Open-source mocking toolkits like *Mockito* for Java, *Moq* for C#, and
@@ -232,7 +232,7 @@ Figure 1C &mdash; Mock in C# using Moq
 ### Web Services Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation2.svg)<br>Figure 2A &mdash; Services mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation2.svg)<br>Figure 2A &mdash; Services mocking architecture
 :::
 
 Apps and websites communicate with each other using web services via backend
@@ -329,7 +329,7 @@ Figure 2C &mdash; GraphQL query in JavaScript using MSW
 ### Highly-customizable Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation3.svg)<br>Figure 3A &mdash; Customizable mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation3.svg)<br>Figure 3A &mdash; Customizable mocking architecture
 :::
 
 Oftentimes, there are cases where access to the internal components of an
@@ -411,7 +411,7 @@ Figure 3C &mdash; Mocking static method in Java using PowerMock
 ### Pre-installed Frameworks
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation4.svg)<br>Figure 4A &mdash; Bundled mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/evaluation4.svg)<br>Figure 4A &mdash; Bundled mocking architecture
 :::
 
 The last category is a smaller pool of mocking tools that comes as a package
@@ -463,7 +463,7 @@ article's authors.
 ### Java Mocking Practices
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/finding1.png)<br>Figure 5A &mdash; Apache Java mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/finding1.png)<br>Figure 5A &mdash; Apache Java mocking architecture
 :::
 
 An examination of Java mocking frameworks was spearheaded by the *Stevens
@@ -551,7 +551,7 @@ that the table included EasyMock's non-standard mocking exercises like recording
 and `replay`.
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/finding2.png)<br>Figure 5B &mdash; No mocking vs. mocking Java project size comparison
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/finding2.png)<br>Figure 5B &mdash; No mocking vs. mocking Java project size comparison
 :::
 
 In the last figure, the article theorized that a software team as large-scale as
@@ -567,7 +567,7 @@ computers get more powerful.
 ### C++ Mocking Practices
 
 ::: figure
-![](https://github.com/hendraanggrian/IIT-ITM536/raw/assets/assignments/proj/finding3.png)<br>Figure 6 &mdash; C++ abstract mocking architecture
+![](https://github.com/hanggrian/IIT-ITM536/raw/assets/assignments/proj/finding3.png)<br>Figure 6 &mdash; C++ abstract mocking architecture
 :::
 
 Contrary to the interpreted language that is Java, compiled languages like C++
